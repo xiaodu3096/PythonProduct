@@ -16,7 +16,7 @@ class MainPageHandler(web.RequestHandler):
 
 class CodeHandler(web.RequestHandler):
     def get(self,*args,**kwargs):
-        code_img_handler = get_code_by_str('http:127.0.0.1:8080/sign')
+        code_img_handler = get_code_by_str('http://127.0.0.1:8080/sign')
         self.write(code_img_handler.getvalue())
 
 class SignHandler(web.RequestHandler):
