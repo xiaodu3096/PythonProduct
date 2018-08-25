@@ -5,3 +5,8 @@
 # @Site    : 
 # @File    : Boss.py
 # @Software: PyCharm
+
+import request
+
+html = request.GET('https://www.zhipin.com/')
+print(html)

@@ -1,0 +1,18 @@
+missing module named resource - imported by posix, D:\Python\PythonProduct\VIPStare\Login.py
+missing module named posix - imported by os, D:\Python\PythonProduct\VIPStare\Login.py
+missing module named _posixsubprocess - imported by subprocess, D:\Python\PythonProduct\VIPStare\Login.py
+missing module named readline - imported by cmd, code, pdb, D:\Python\PythonProduct\VIPStare\Login.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\Python\PythonProduct\VIPStare\Login.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\Python\PythonProduct\VIPStare\Login.py
+missing module named _winreg - imported by platform, D:\Python\PythonProduct\VIPStare\Login.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, D:\Python\PythonProduct\VIPStare\Login.py
+missing module named 'java.lang' - imported by platform, D:\Python\PythonProduct\VIPStare\Login.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, D:\Python\PythonProduct\VIPStare\Login.py
+missing module named termios - imported by tty, D:\Python\PythonProduct\VIPStare\Login.py, getpass
+missing module named grp - imported by shutil, tarfile, D:\Python\PythonProduct\VIPStare\Login.py
+missing module named _dummy_threading - imported by dummy_threading, D:\Python\PythonProduct\VIPStare\Login.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, D:\Python\PythonProduct\VIPStare\Login.py, netrc, getpass
+missing module named org - imported by pickle, D:\Python\PythonProduct\VIPStare\Login.py
+missing module named 'org.python' - imported by copy, D:\Python\PythonProduct\VIPStare\Login.py, xml.sax
+missing module named VIPStare - imported by D:\Python\PythonProduct\VIPStare\Login.py
